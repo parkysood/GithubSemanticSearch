@@ -1,0 +1,6 @@
+# Python
+venv/
+*cache*/
+
+# Miscellaneous
+.env

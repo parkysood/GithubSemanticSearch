@@ -1,0 +1,11 @@
+# Testing
+pytest==8.3.5
+
+# Dependencies
+requests==2.31.0
+python-dotenv==1.1.0
+sentence-transformers==4.0.1
+psycopg2-binary==2.9.9
+qdrant-client==1.13.3
+
+
